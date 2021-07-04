@@ -1,0 +1,18 @@
+﻿Player File Format
+1.0
+Players
+14
+1; Ollie; Thorley; 31/03/1995; 174; 85; Rotorua, New Zealand
+2; Callum; Sheedy; 25/05/2000; 189; 94; New Zealand
+3; Tate; McDermott; 14/10/1998; 189; 99; Hamilton, New Zealand
+4; Bundee; Aki; 20/08/1999; 183; 92; Auckland, New Zealand
+5; Jake; Polledri; 28/08/1991; 189; 132; Sydney, Australia
+6; Taniela; Tupou; 10/01/1995; 188; 120; Nukuʻalofa, Tonga
+7; Camille; Chat; 24/09/1990; 185; 75; Upper Hutt, New Zealand
+8; Ngani; Laumape; 7/01/1999; 185; 95; New Zealand
+9; Michael; Hooper; 17/04/1998; 180; 81; Wanganui, New Zealand
+10; Morne; Steyn; 19/08/1997; 187; 137; Wellington, New Zealand
+11; Kyle; Sinckler; 29/11/1998; 189; 111; Wellington, New Zealand
+12; Louis; Zammit; 5/05/1997; 177; 108; Wellington, New Zealand
+13; Nemani; Nadolo; 10/10/1995; 198; 110; Palmerston North, New Zealand
+14; Eben; Etzebeth; 3/12/1992; 201; 118; Wellington, New Zealand

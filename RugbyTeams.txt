@@ -1,0 +1,7 @@
+﻿Team File Format
+1.0
+Teams
+3
+Taranaki Rugby Football Union; TET Stadium & Events Centre; Willie Rickards; Founded 1885, New Plymouth, Taranaki
+Rugby Southland; Rugby Park Stadium; Dale MacLeod; Founded 1887, Invercargill, New Zealand
+Otago Rugby Football Union; Forsyth Barr Stadium; Tom Donnelly; Founded 1881, Dunedin, New Zealand

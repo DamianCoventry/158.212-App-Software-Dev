@@ -1,0 +1,382 @@
+﻿Rugby Union File Format
+1.0
+Super Rugby
+Teams
+17
+Chiefs; Waikato Stadium; Clayton McMillan; Founded 1996, Hamilton, New Zealand
+Crusaders; Christchurch Stadium; Scott Robertson; Founded 1996, Christchurch, New Zealand
+Highlanders; Forsyth Barr Stadium; Tony Brown; Founded 1996, Dunedin, New Zealand
+Hurricanes; Sky Stadium; Jason Holland; Founded 1996, Wellington, New Zealand
+Brumbies; GIO Stadium; Dan McKellar; Founded 1996, Canberra, ACT, Australia
+Force; HBF Park; Tim Sampson; Founded 2005, Perth, Western Australia
+Rebels; AAMI Park; David Wessels; Founded 2010, Melbourne, Australia
+Reds; Suncorp Stadium; Brad Thorn; Founded 1882, Brisbane, Queensland, Australia
+Waratahs; Sydney Football Stadium; Rob Penney; Founded 1882, Sydney, New South Wales, Australia
+Bulls; Loftus Versfeld Stadium; Jake White; Founded 1997, Pretoria, South Africa
+Cheetahs; Free State Stadium; Hawies Fourie; Founded 2005, Bloemfontein, Free State, South Africa
+Lions; Emirates Airline Park; Ivan van Rooyen; Founded 1996, Johannesburg, South Africa
+Sharks; Jonsson Kings Park Stadium; Sean Everitt; Founded 1995, Durban, South Africa
+Southern; Nelson Mandela Bay Stadium; Robbi Kempson; Founded 2009, Port Elizabeth, South Africa
+Stormers; Cape Town Stadium; John Dobson; Founded 1997, Cape Town, South Africa
+Jaguares; José Amalfitani Stadium; Gonzalo Quesada; Founded 2015, Buenos Aires, Argentina
+Sunwolves; Chichibunomiya Stadium; Eddie Jones; Founded 2015, Tokyo, Japan
+Players
+178
+1; Sione; Mafileo; 14/04/1993; 178; 128; Auckland, New Zealand
+2; Aidan; Ross; 25/10/1995; 189; 111; Sydney, New South Wales, Australia
+3; Samisoni; Taukei'aho; 8/08/1997; 183; 115; Tongatapu, Tonga
+4; Laghlan; McWhannell; 20/10/1998; 198; 114; Cambridge, New Zealand
+5; Mitchell; Brown; 15/08/1993; 194; 110; New Plymouth, New Zealand
+6; Te Toiroa; Tahuriorangi; 31/03/1995; 174; 85; Rotorua, New Zealand
+7; Rivez; Reihana; 25/05/2000; 189; 94; New Zealand
+8; Rameka; Poihipi; 14/10/1998; 189; 99; Hamilton, New Zealand
+9; Etene; Nanai-Seturo; 20/08/1999; 183; 92; Auckland, New Zealand
+10; Michael; Ala'alatoa; 28/08/1991; 189; 132; Sydney, Australia
+11; Isileli; Tu'ungafasi; 10/01/1995; 188; 120; Nukuʻalofa, Tonga
+12; Codie; Taylor; 31/03/1991; 183; 108; Levin, New Zealand
+13; Luke; Romano; 16/02/1986; 199; 120; Nelson, New Zealand
+14; Whetukamokamo; Douglas; 18/04/1991; 190; 107; Rotorua, New Zealand
+15; Ereatara; Enari; 30/05/1997; 178; 84; Auckland, New Zealand
+16; Brett; Cameron; 4/10/1996; 171; 82; Whanganui, New Zealand
+17; Dallas; McLeod; 30/04/1999; 188; 99; Methven, New Zealand
+18; Rene; Ranger; 30/09/1986; 182; 96; Whangarei, New Zealand
+19; Chay; Fihaki; 1/01/2001; 189; 99; Auckland, New Zealand
+20; Joshua; McKay; 10/10/1997; 181; 93; Christchurch, New Zealand
+21; Ethan; de Groot; 22/07/1998; 190; 122; Gore, New Zealand
+22; Jeff; Thwaites; 22/11/1992; 190; 120; New Zealand
+23; Ricky; Jackson; 2/08/1998; 180; 100; New Zealand
+24; Siate; Tokolahi; 16/03/1992; 184; 116; Nukualofa, Tonga
+25; Jack; Regan; 9/05/1997; 185; 114; Birr, County Offaly, Ireland
+26; William; Harmon; 23/12/1994; 187; 104; Christchurch, New Zealand
+27; Kazuki; Himeno; 27/07/1994; 185; 108; Japan
+28; Kayne; Hammington; 24/09/1990; 185; 75; Upper Hutt, New Zealand
+29; Scott; Gregory; 7/01/1999; 185; 95; New Zealand
+30; Vilimoni; Koroi; 17/04/1998; 180; 81; Wanganui, New Zealand
+31; Alex; Fidow; 19/08/1997; 187; 137; Wellington, New Zealand
+32; Xavier; Numia; 29/11/1998; 189; 111; Wellington, New Zealand
+33; Asafo; Aumua; 5/05/1997; 177; 108; Wellington, New Zealand
+34; Liam; Mitchell; 10/10/1995; 198; 110; Palmerston North, New Zealand
+35; Kane; Le'aupepe; 3/12/1992; 201; 118; Wellington, New Zealand
+36; Vaea; Fifita; 17/06/1992; 196; 111; Vavaʻu, Tonga
+37; Du'Plessis; Kirifi; 3/03/1997; 180; 101; New Plymouth, New Zealand
+38; Luke; Campbell; 16/02/1995; 177; 85; New Zealand
+39; Simon; Hickey; 12/01/1994; 174; 83; Auckland, New Zealand
+40; Danny; Toala; 26/03/1999; 176; 95; Hastings, New Zealand
+41; Peepesana; Patafilo; 29/05/1996; 178; 89; New Zealand
+42; Harry; Lloyd; 17/01/1995; 185; 110; Australia
+43; Lachlan; Lonergan; 11/10/1999; 180; 99; Australia
+44; Darcy; Swain; 5/07/1997; 200; 113; Babinda, Queensland, Australia
+45; Pete; Samu; 17/12/1991; 185; 102; Melbourne, Australia
+46; Issak; Fines-Leleiwasa; 2/10/1995; 173; 81; Sydney, Australia
+47; Noah; Lolesio; 18/12/1999; 180; 89; Auckland, New Zealand
+48; Irae; Simone; 10/07/1995; 193; 102; Auckland, New Zealand
+49; Andy; Muirhead; 8/03/1993; 183; 84; Australia
+50; Thomas; Banks; 18/06/1994; 185; 93; Brisbane, Queensland, Australia
+51; Kieran; Longbottom; 20/12/1985; 185; 118; Perth, Western Australia, Australia
+52; Santiago; Medrano; 6/05/1996; 185; 247; Buenos Aires, Argentina
+53; Andrew; Ready; 11/07/1993; 185; 107; Brisbane, Queensland
+54; Ryan; McCauley; 8/06/1997; 203; 115; Sydney, New South Wales, Australia
+55; Brynard; Stander; 27/04/1990; 185; 106; Durban, South Africa
+56; Ian; Prior; 21/08/1990; 185; 83; Bundaberg, Queensland, Australia
+57; Domingo; Miotti; 22/05/1996; 185; 187; San Miguel de Tucumán, Argentina
+58; Tevita; Kuridrani; 31/03/1991; 192; 102; Suva, Fiji
+59; Toni; Pulu; 28/11/1989; 185; 93; Los Angeles, California, U.S.
+60; Jack; McGregor; 10/01/1997; 179; 87; Sydney, Australia
+61; Albert; Anae; 21/06/1989; 185; 117; Wellington, New Zealand
+62; Cabous; Eloff; 30/07/1998; 185; 124; South Africa
+63; Edward; Craig; 20/07/1996; 186; 108; Sydney, Australia
+64; Ross; Haylett-Petty; 10/01/1994; 185; 118; Durban, Natal, South Africa
+65; Josh; Kemeny; 29/11/1998; 193; 104; Australia
+66; Frank; Lomani; 18/04/1996; 180; 81; Fiji
+67; Matthew; To'omua; 2/01/1990; 182; 91; Melbourne, Victoria, Australia
+68; Lewis; Holland; 14/01/1993; 185; 83; Queanbeyan, New South Wales, Australia
+69; Yee-Huang; Tonumaipea; 6/09/1992; 182; 95; Apia, Samoa
+70; Harry; Hoopert; 16/09/1998; 191; 116; Toowoomba, Queensland, Australia
+71; Brandon; Paenga-Amosa; 25/12/1995; 183; 117; Auckland, New Zealand
+72; Ben; Grant; 18/05/1998; 205; 118; Townsville, Australia
+73; Fraser; McReight; 19/02/1999; 184; 100; Australia
+74; Tate; McDermott; 18/09/1998; 179; 82; Bundaberg, Australia
+75; Bryce; Hegarty; 28/08/1992; 185; 92; Brisbane, Queensland, Australia
+76; Jordan; Petaia; 14/03/2000; 190; 98; Melbourne, Victoria, Australia
+77; Jock; Campbell; 17/05/1995; 186; 85; Australia
+78; Ilaisa; Droasese; 13/09/1999; 185; 99; Fiji
+79; Tetera; Faulkner; 26/07/1988; 185; 117; Tauranga, New Zealand
+80; Alefosio; Tatola; 28/01/1995; 189; 114; Australia
+81; Joseph; Cotton; 12/05/1999; 186; 105; Bristol, England
+82; David; Porecki; 23/10/1992; 185; 108; Sydney, Australia
+83; Jack; Whetton; 24/05/1992; 185; 114; Auckland, New Zealand
+84; Will; Harris; 8/06/2000; 194; 107; Australia
+85; Jack; Grant; 24/01/1994; 180; 79; Australia
+86; Izaia; Perese; 17/05/1997; 180; 91; Brisbane, Queensland, Australia
+87; Alex; Newsome; 20/01/1995; 189; 93; Glen Innes, New South Wales, Australia
+88; Jack; Maddocks; 5/02/1997; 194; 90; Sydney, Australia
+89; Lizo; Gqoboka; 24/03/1990; 183; 115; Tabankulu, South Africa
+90; Marcel; van der Merwe; 24/10/1990; 188; 128; Welkom, South Africa
+91; Schalk; Erasmus; 15/04/1998; 184; 108; Ellisras, South Africa
+92; Janko; Swanepoel; 8/09/1999; 200; 107; South Africa
+93; Nizaam; Carr; 4/04/1991; 183; 103; Cape Town, South Africa
+94; Muller; Uys; 2/09/1998; 191; 107; Stellenbosch, South Africa
+95; Ivan; van Zyl; 30/06/1995; 180; 82; Pretoria, South Africa
+96; Morné; Steyn; 11/07/1984; 184; 91; Cradock, South Africa
+97; Cornal; Hendricks; 18/04/1988; 188; 95; Paarl, South Africa
+98; Jay-Cee; Nel; 7/01/1999; 192; 100; South Africa
+99; Madosha; Tambwe; 12/05/1997; 186; 92; Kinshasa, Zaire
+100; Gio; Aplon; 6/10/1982; 175; 78; Hawston, South Africa
+101; Cameron; Dawson; 6/01/1999; 181; 115; South Africa
+102; Wilmar; Arnoldi; 21/10/1994; 181; 105; Pretoria, South Africa
+103; Jean; Droste; 21/01/1994; 200; 108; Pretoria, South Africa
+104; Teboho; Mohojé; 3/08/1990; 193; 107; QwaQwa
+105; Aidon; Davis; 29/04/1994; 191; 110; Uitenhage, South Africa
+106; Ruben; de Haas; 9/10/1998; 183; 185; George, South Africa
+107; Reinhardt; Fortuin; 30/01/1996; 180; 94; Pretoria, South Africa
+108; François; Steyn; 14/05/1987; 191; 114; Bethlehem, South Africa
+109; William; Small-Smith; 31/03/1992; 184; 90; Johannesburg
+110; Rhyno; Smith; 11/02/1993; 173; 81; Paarl, South Africa
+111; Ruan; Dreyer; 16/09/1990; 185; 115; Potchefstroom, South Africa
+112; Nathan; McBeth; 8/06/1998; 190; 118; Welkom, South Africa
+113; Pieter; Botha; 20/01/1998; 182; 100; Paul Roux, South Africa
+114; Marvin; Orie; 15/02/1993; 198; 110; Cape Town, South Africa
+115; Hacjivah; Dayimani; 23/09/1997; 188; 99; Cape Town, South Africa
+116; Reinhard; Nothnagel; 25/09/1997; 202; 115; Krugersdorp, South Africa
+117; Morné; van den Berg; 24/10/1997; 175; 75; Johannesburg, South Africa
+118; Elton; Jantjies; 1/08/1990; 176; 88; Graaff Reinet, South Africa
+119; Manuel; Rass; 19/04/1998; 175; 88; Somerset West, South Africa
+120; Courtnall; Skosan; 24/07/1991; 183; 93; Cape Town, South Africa
+121; Gianni; Lombard; 22/01/1998; 178; 78; Worcester, South Africa
+122; Thomas; du Toit; 5/05/1995; 190; 136; Cape Town, South Africa
+123; Khuthazani; Mchunu; 1/07/1997; 184; 117; Greytown, South Africa
+124; Craig; Burden; 13/03/1985; 184; 100; Durban, South Africa
+125; Retshegofaditswe; Nché; 23/07/1995; 173; 114; Bloemfontein, South Africa
+126; Kerron; van Vuuren; 23/05/1995; 188; 101; Durban, South Africa
+127; Juan; van der Mescht; 4/05/1999; 200; 120; Pretoria, South Africa
+128; Sikhumbuzo; Notshe; 28/05/1993; 186; 101; King William's Town, South Africa
+129; Celimpilo; Gumede; 8/07/2000; 192; 103; South Africa
+130; Sanele; Nohamba; 19/01/1999; 164; 69; Alice, South Africa
+131; Lukhanyo; Am; 28/11/1993; 186; 98; King William's Town, South Africa
+132; Madosha; Tambwe; 12/05/1997; 186; 92; Kinshasa, Zaire
+133; Aphelele; Fassi; 23/01/1998; 189; 87; King William's Town, South Africa
+134; Cameron; Dawson; 6/01/1999; 181; 115; South Africa
+135; Jacques; du Toit; 19/11/1993; 184; 103; Bloemfontein, South Africa
+136; Aston; Fortuin; 16/04/1996; 197; 114; Cape Town, South Africa
+137; Luyolo; Dapula; 10/10/1998; 191; 103; South Africa
+138; Erich; Cronjé; 1/01/1997; 184; 95; South Africa
+139; Edmund; Ludick; 25/01/1999; 186; 95; South Africa
+140; Josiah; Twum-Boafo; 23/07/1997; 183; 101; Butterworth, South Africa
+141; Andell; Loubser; 3/03/1997; 187; 96; Vredenburg, South Africa
+142; Kwenzokuhle; Blose; 12/05/1997; 187; 109; Paulpietersburg, South Africa
+143; Steven; Kitshoff; 10/02/1992; 183; 120; Somerset West, South Africa
+144; Francois; Malherbe; 14/03/1991; 190; 125; Bredasdorp, South Africa
+145; Siyabonga; Ntubeni; 18/02/1991; 174; 105; East London, South Africa
+146; Salmaan; Moerat; 6/03/1998; 200; 116; Paarl, South Africa
+147; John; Schickerling; 9/05/1995; 203; 119; Calvinia, South Africa
+148; Jacobus; Coetzee; 10/06/1996; 189; 108; Pretoria, South Africa
+149; Marcel; Theunissen; 9/06/1999; 192; 99; Cape Town, South Africa
+150; Herschel; Jantjies; 22/04/1996; 166; 74; Kylemore, South Africa
+151; Damian; Willemse; 7/05/1998; 187; 91; Strand, South Africa
+152; Michal; Haznar; 17/01/1994; 185; 95; Windhoek, Namibia
+153; Seabelo; Senatla; 10/02/1993; 178; 76; Welkom, South Africa
+154; Warrick; Gelant; 20/05/1995; 178; 89; Knysna, South Africa
+155; Santiago; Medrano; 6/05/1996; 185; 112; Buenos Aires, Argentina
+156; Mayco; Vivas; 2/06/1998; 185; 122; Argentina
+157; Santiago; Socino; 7/05/1992; 188; 114; Buenos Aires
+158; Marcos; Kremer; 30/07/1997; 201; 115; Concordia, Entre Ríos, Argentina
+159; Francisco; Gorrissen; 30/08/1994; 191; 104; Argentina
+160; Juan; Pedemonte; 14/03/2000; 188; 104; Argentina
+161; Felipe; Ezcurra; 15/04/1993; 178; 89; Buenos Aires, Argentina
+162; Joaquín; Bonilla; 12/04/1989; 173; 79; Buenos Aires, Argentina
+163; Santiago; Chocobares; 31/03/1999; 188; 97; Argentina
+164; Bautista; Delguy; 22/04/1997; 183; 81; Remedios de Escalada, Buenos Aires, Argentina
+165; Jarred; Adams; 26/09/1996; 186; 126; Auckland, New Zealand
+166; Nicholas; Mayhew; 28/11/1989; 180; 116; Auckland, New Zealand
+167; Hendrik; van Wyk; 2/03/1992; 183; 119; Nigel, South Africa
+168; Jaba; Bregvadze; 24/04/1987; 181; 102; Tbilisi, Georgian SSR, Soviet Union
+169; Justin; Downey; 11/11/1986; 191; 105; Johannesburg, South Africa
+170; Corey; Thomas; 21/09/1994; 194; 105; Australia
+171; Kotaro; Yatabe; 29/07/1986; 190; 107; Gunma, Japan
+172; Shunsuke; Nunomaki; 13/07/1992; 178; 96; Fukuoka, Japan
+173; Kyo; Yoshida; 30/06/1995; 188; 106; Japan
+174; Rudy; Paige; 2/08/1989; 169; 77; Heidelberg, Western Cape
+175; Jumpei; Ogura; 11/07/1992; 172; 72; Japan
+176; Alex; Horan; 4/04/1997; 185; 93; Australia
+177; James; Dargaville; 25/04/1992; 187; 94; Southport, Australia
+178; Yoshizumi; Takeda; 29/04/1991; 180; 94; Nara Prefecture, Japan
+Signed Players
+178
+1; Chiefs
+2; Chiefs
+3; Chiefs
+4; Chiefs
+5; Chiefs
+6; Chiefs
+7; Chiefs
+8; Chiefs
+9; Chiefs
+10; Crusaders
+11; Crusaders
+12; Crusaders
+13; Crusaders
+14; Crusaders
+15; Crusaders
+16; Crusaders
+17; Crusaders
+18; Crusaders
+19; Crusaders
+20; Crusaders
+21; Highlanders
+22; Highlanders
+23; Highlanders
+24; Highlanders
+25; Highlanders
+26; Highlanders
+27; Highlanders
+28; Highlanders
+29; Highlanders
+30; Highlanders
+31; Hurricanes
+32; Hurricanes
+33; Hurricanes
+34; Hurricanes
+35; Hurricanes
+36; Hurricanes
+37; Hurricanes
+38; Hurricanes
+39; Hurricanes
+40; Hurricanes
+41; Hurricanes
+42; Brumbies
+43; Brumbies
+44; Brumbies
+45; Brumbies
+46; Brumbies
+47; Brumbies
+48; Brumbies
+49; Brumbies
+50; Brumbies
+51; Force
+52; Force
+53; Force
+54; Force
+55; Force
+56; Force
+57; Force
+58; Force
+59; Force
+60; Force
+61; Rebels
+62; Rebels
+63; Rebels
+64; Rebels
+65; Rebels
+66; Rebels
+67; Rebels
+68; Rebels
+69; Rebels
+70; Reds
+71; Reds
+72; Reds
+73; Reds
+74; Reds
+75; Reds
+76; Reds
+77; Reds
+78; Reds
+79; Waratahs
+80; Waratahs
+81; Waratahs
+82; Waratahs
+83; Waratahs
+84; Waratahs
+85; Waratahs
+86; Waratahs
+87; Waratahs
+88; Waratahs
+89; Bulls
+90; Bulls
+91; Bulls
+92; Bulls
+93; Bulls
+94; Bulls
+95; Bulls
+96; Bulls
+97; Bulls
+98; Bulls
+99; Bulls
+100; Bulls
+101; Cheetahs
+102; Cheetahs
+103; Cheetahs
+104; Cheetahs
+105; Cheetahs
+106; Cheetahs
+107; Cheetahs
+108; Cheetahs
+109; Cheetahs
+110; Cheetahs
+111; Lions
+112; Lions
+113; Lions
+114; Lions
+115; Lions
+116; Lions
+117; Lions
+118; Lions
+119; Lions
+120; Lions
+121; Lions
+122; Sharks
+123; Sharks
+124; Sharks
+125; Sharks
+126; Sharks
+127; Sharks
+128; Sharks
+129; Sharks
+130; Sharks
+131; Sharks
+132; Sharks
+133; Sharks
+134; Southern
+135; Southern
+136; Southern
+137; Southern
+138; Southern
+139; Southern
+140; Southern
+141; Southern
+142; Stormers
+143; Stormers
+144; Stormers
+145; Stormers
+146; Stormers
+147; Stormers
+148; Stormers
+149; Stormers
+150; Stormers
+151; Stormers
+152; Stormers
+153; Stormers
+154; Stormers
+155; Jaguares
+156; Jaguares
+157; Jaguares
+158; Jaguares
+159; Jaguares
+160; Jaguares
+161; Jaguares
+162; Jaguares
+163; Jaguares
+164; Jaguares
+165; Sunwolves
+166; Sunwolves
+167; Sunwolves
+168; Sunwolves
+169; Sunwolves
+170; Sunwolves
+171; Sunwolves
+172; Sunwolves
+173; Sunwolves
+174; Sunwolves
+175; Sunwolves
+176; Sunwolves
+177; Sunwolves
+178; Sunwolves
